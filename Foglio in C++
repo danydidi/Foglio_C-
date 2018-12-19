@@ -1,0 +1,13 @@
+*/ Righe standard in c++ */
+
+#include <iostream>
+using namespace std
+
+int main();
+
+{
+cout << "Riga Standard in C++" << endl;
+
+return 0;
+
+}
